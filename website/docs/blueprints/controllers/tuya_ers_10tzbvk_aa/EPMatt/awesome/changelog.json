@@ -38,5 +38,15 @@
         "breaking": false
       }
     ]
+  },
+  {
+    "date": "2026.03.29",
+    "changes": [
+      {
+        "author": "@yarafie",
+        "description": "Added Zigbee2MQTT variant Tuya Smart knob custom (ERS-10TZBVK-AA)",
+        "breaking": false
+      }
+    ]
   }
 ]

@@ -1,10 +1,10 @@
 # Awesome HA Blueprints – Library Report
 
-## _Generated on 2026-03-10_
+## _Generated on 2026-03-29_
 
 ## Summary
 
-- **Controllers:** 33 blueprints, 40 versions
+- **Controllers:** 33 blueprints, 41 versions
 - **Automations:** 4 blueprints, 4 versions
 - **Hooks:** 3 blueprints, 18 versions
 - **Breaking versions:** 12
@@ -509,7 +509,7 @@
 - **Title:** Controller - Tuya ERS-10TZBVK-AA Smart knob
 - **Librarians:** yarafie, EPMatt
 - **Library Maintainers:** EPMatt, yarafie
-- **Latest Version:** 2026.02.17
+- **Latest Version:** 2026.03.29
 - **Tags:** zigbee, knob, rotary
 <details>
 <summary>Versions</summary>
@@ -518,6 +518,7 @@
 | ------- | ------- | ---------- | -------- |
 | EPMatt  | awesome | 2025.03.29 | no       |
 | EPMatt  | awesome | 2026.02.17 | no       |
+| EPMatt  | awesome | 2026.03.29 | no       |
 
 </details>
 
